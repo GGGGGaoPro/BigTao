@@ -13,7 +13,6 @@ public interface UserDao {
      * @return
      */
     public User queryUserById(String id);
-
     /**
      * 查询所有用户信息
      *
